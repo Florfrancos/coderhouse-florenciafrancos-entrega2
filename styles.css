@@ -1,0 +1,50 @@
+/* Google Fonts*/   
+
+/*Roboto - Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');    
+/*font-family: "Roboto", sans-serif;*/
+
+/*Lato - Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+/*font-family: "Lato", sans-serif;*/
+
+/* Estilos generales*/
+/*color de fondo */
+body {background-color: #EADCC9 ;
+}
+
+/*color de nav bar */
+nav {background-color: #8A9A86;
+color: #FDFBF7}
+
+/*color de links */
+nav a {color: #FDFBF7}
+
+/*color de footer */
+footer {background-color: #8A9A86;
+color: #FDFBF7}
+
+/*H1*/
+h1 {color: #9F8170;
+font-family: "Roboto", sans-serif;
+font-size: 2.5rem;}
+
+/*h2*/
+h2 {color: #C1694F  ;
+font-family: "Lato", sans-serif;
+font-size: 1.5rem;
+font-weight: 700;}
+
+/*intro*/
+.intro {
+    color: #1b1a1a;
+    font-family: "Lato", sans-serif;
+    font-size: 1rem;
+}
+
+/*detalle en lista*/
+.detalle {
+    color: #1b1a1a;
+    font-family: "Lato", sans-serif;
+}
+
